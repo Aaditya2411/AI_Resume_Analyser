@@ -1,0 +1,74 @@
+job_title,company,skills,salary,location
+Python Developer,Infosys,"python django flask api mysql git",6 LPA,Bangalore
+Data Scientist,TCS,"python machine learning pandas numpy statistics",8 LPA,Hyderabad
+AI Engineer,Google,"python tensorflow deep learning ai neural networks",20 LPA,Bangalore
+Web Developer,Wipro,"html css javascript react nodejs bootstrap",5 LPA,Pune
+Java Developer,Accenture,"java spring boot mysql hibernate",7 LPA,Chennai
+Frontend Developer,Amazon,"react javascript html css redux",12 LPA,Delhi
+Backend Developer,Cognizant,"python flask api sql docker",9 LPA,Kolkata
+Cloud Engineer,IBM,"aws cloud docker kubernetes linux",15 LPA,Mumbai
+DevOps Engineer,Oracle,"jenkins docker kubernetes linux ansible",14 LPA,Noida
+Cyber Security Analyst,HCL,"network security ethical hacking kali linux",10 LPA,Hyderabad
+Mobile App Developer,Tech Mahindra,"flutter android ios firebase dart",8 LPA,Bhubaneswar
+Full Stack Developer,Capgemini,"mern mongodb express react nodejs",11 LPA,Gurgaon
+ML Engineer,Microsoft,"machine learning python scikit-learn tensorflow",18 LPA,Bangalore
+UI UX Designer,Adobe,"figma adobe xd ui ux prototyping",7 LPA,Pune
+Database Administrator,Deloitte,"sql oracle database mysql mongodb",9 LPA,Chennai
+Software Engineer,Intel,"c c++ operating systems data structures",13 LPA,Bangalore
+Network Engineer,Cisco,"networking ccna routing switching firewall",11 LPA,Mumbai
+Business Analyst,Genpact,"excel power bi sql analytics",8 LPA,Noida
+Data Analyst,PwC,"python sql tableau power bi",7 LPA,Kolkata
+System Administrator,Infosys,"linux windows server networking",6 LPA,Chennai
+Blockchain Developer,CoinDCX,"solidity ethereum blockchain web3",16 LPA,Bangalore
+Game Developer,Unity,"unity c# gaming unreal engine",10 LPA,Pune
+AR VR Developer,Meta,"unity ar vr c# 3d",17 LPA,Hyderabad
+Embedded Systems Engineer,Bosch,"embedded c microcontrollers iot",12 LPA,Bangalore
+IoT Engineer,Siemens,"iot raspberry pi sensors mqtt",11 LPA,Delhi
+Data Engineer,Flipkart,"spark hadoop kafka sql python",16 LPA,Bangalore
+QA Engineer,Zoho,"testing selenium automation junit",7 LPA,Chennai
+Automation Engineer,Tata Elxsi,"python automation selenium robot framework",9 LPA,Pune
+SAP Consultant,IBM,"sap abap hana erp",14 LPA,Mumbai
+ERP Developer,Oracle,"erp oracle sql java",12 LPA,Hyderabad
+Technical Support Engineer,Dell,"hardware networking troubleshooting",5 LPA,Noida
+Product Manager,Paytm,"agile scrum product management",18 LPA,Bangalore
+Digital Marketing Specialist,Byju's,"seo sem social media analytics",6 LPA,Delhi
+SEO Analyst,RankON,"seo google analytics keyword research",5 LPA,Jaipur
+Content Writer,TechRadar,"content writing blogging seo",4 LPA,Remote
+Graphic Designer,Canva,"photoshop illustrator figma branding",6 LPA,Pune
+Video Editor,YouTube,"premiere pro after effects editing",5 LPA,Mumbai
+Cloud Architect,Amazon AWS,"aws cloud architecture devops security",25 LPA,Bangalore
+Site Reliability Engineer,Google,"linux kubernetes monitoring scripting",22 LPA,Hyderabad
+Research Scientist,OpenAI,"python ai llm deep learning nlp",35 LPA,Remote
+NLP Engineer,Hugging Face,"nlp transformers pytorch llm",24 LPA,Bangalore
+Computer Vision Engineer,NVIDIA,"opencv pytorch cnn deep learning",20 LPA,Pune
+Big Data Engineer,Cloudera,"hadoop spark hive kafka",15 LPA,Chennai
+Ethical Hacker,Quick Heal,"penetration testing kali linux security",11 LPA,Pune
+Penetration Tester,KPMG,"cybersecurity ethical hacking burpsuite",13 LPA,Mumbai
+Robotics Engineer,ABB,"robotics automation plc embedded systems",18 LPA,Bangalore
+Mechatronics Engineer,L&T,"plc scada automation robotics",12 LPA,Chennai
+Electrical Engineer,BHEL,"electrical circuits power systems autocad",7 LPA,Hyderabad
+Mechanical Engineer,Tata Motors,"solidworks autocad manufacturing",6 LPA,Pune
+Civil Engineer,DLF,"autocad staad pro construction",7 LPA,Delhi
+CAD Designer,Autodesk,"autocad catia solidworks",8 LPA,Bangalore
+AI Research Intern,OpenAI,"python machine learning ai research",10 LPA,Remote
+Software Testing Intern,Infosys,"manual testing selenium bug tracking",3 LPA,Mysore
+Android Developer,Samsung,"android kotlin java firebase",9 LPA,Noida
+iOS Developer,Apple,"swift ios xcode firebase",18 LPA,Bangalore
+React Developer,Swiggy,"react redux javascript html css",11 LPA,Bangalore
+Angular Developer,Zomato,"angular typescript javascript css",10 LPA,Gurgaon
+PHP Developer,WordPress,"php laravel mysql apache",6 LPA,Jaipur
+Laravel Developer,Freelancer,"php laravel api mysql",7 LPA,Remote
+Django Developer,StartupX,"python django rest api postgres",9 LPA,Hyderabad
+Flask Developer,TechSoft,"python flask api sql",8 LPA,Chennai
+Node.js Developer,Razorpay,"nodejs express mongodb api",12 LPA,Bangalore
+C++ Developer,AMD,"c++ oop data structures algorithms",14 LPA,Hyderabad
+Go Developer,Uber,"golang microservices docker kubernetes",20 LPA,Bangalore
+Rust Developer,Cloudflare,"rust systems programming networking",22 LPA,Remote
+Kotlin Developer,PhonePe,"kotlin android mobile development",13 LPA,Bangalore
+Flutter Developer,CRED,"flutter dart firebase ui",10 LPA,Pune
+Power BI Developer,Infosys,"power bi dax sql analytics",8 LPA,Noida
+Tableau Developer,TCS,"tableau dashboards analytics sql",7 LPA,Hyderabad
+Data Visualization Engineer,Mu Sigma,"python tableau power bi matplotlib",10 LPA,Bangalore
+AI Chatbot Developer,OpenAI,"python nlp llm chatbot api",25 LPA,Remote
+Prompt Engineer,Anthropic,"prompt engineering ai llm chatgpt",28 LPA,Remote
+Generative AI Engineer,Google DeepMind,"llm generative ai transformers python",32 LPA,Bangalore
